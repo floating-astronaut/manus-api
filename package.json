@@ -1,0 +1,14 @@
+{
+  "name": "manus-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Manus API v2 client + scripts",
+  "scripts": {
+    "task:create": "node scripts/create-task.js",
+    "task:get": "node scripts/get-task.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
