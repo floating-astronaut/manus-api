@@ -1,14 +1,28 @@
 {
   "name": "manus-api",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "type": "module",
-  "description": "Manus API v2 client + scripts",
+  "description": "Tiny dependency-light Node.js client for the Manus API v2 \u2014 tasks, projects, files, webhooks.",
   "scripts": {
     "task:create": "node scripts/create-task.js",
     "task:get": "node scripts/get-task.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5"
+  },
+  "license": "MIT",
+  "keywords": [
+    "manus",
+    "manus-api",
+    "ai-agent",
+    "api-client",
+    "nodejs"
+  ],
+  "author": "Nuraveda Lab",
+  "homepage": "https://github.com/floating-astronaut/manus-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floating-astronaut/manus-api.git"
   }
 }
