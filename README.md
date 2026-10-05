@@ -8,7 +8,7 @@ A tiny, dependency-light **Node.js client for the [Manus API v2](https://open.ma
 tasks, projects, files, and webhooks behind one thin RPC-style wrapper. No SDK
 bloat, no build step; one `fetch`-based module you can read end to end.
 
-> Maintained by [Nuraveda Lab](https://nuraveda.com). MIT licensed.
+> Maintained by [Tejas Karan Agrawal](https://github.com/floating-astronaut). MIT licensed.
 
 ## Install
 
@@ -81,4 +81,4 @@ errors. That's the whole thing — fork it and add methods as you need them.
 
 ---
 
-<sub>Manus is a trademark of its respective owner; this is an unofficial client. Built by [Nuraveda Lab](https://nuraveda.com).</sub>
+<sub>Manus is a trademark of its respective owner; this is an unofficial client. Built by [Tejas Karan Agrawal](https://github.com/floating-astronaut).</sub>

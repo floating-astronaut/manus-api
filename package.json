@@ -19,7 +19,7 @@
     "api-client",
     "nodejs"
   ],
-  "author": "Nuraveda Lab",
+  "author": "Tejas Karan Agrawal <tejaskagrawalgwl@gmail.com>",
   "homepage": "https://github.com/floating-astronaut/manus-api",
   "repository": {
     "type": "git",
